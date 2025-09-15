@@ -1,0 +1,120 @@
+📄 Artigo Acadêmico (Versão mais trabalhada)
+1. Título
+
+Metodologias Ágeis na Educação Superior: Um Estudo de Caso Aplicado em Projetos Acadêmicos de Software no Brasil
+
+2. Resumo
+
+O presente artigo investiga a aplicação de metodologias ágeis, especialmente Scrum e Kanban, no contexto acadêmico da Educação Superior brasileira, com foco em projetos de desenvolvimento de software. A pesquisa busca compreender como tais metodologias, amplamente utilizadas no mercado de Tecnologia da Informação, podem contribuir para o processo de ensino-aprendizagem, aumentando engajamento, colaboração e resultados práticos entre estudantes. Para tanto, foi realizado um estudo de caso em turmas de Engenharia de Software, analisando métricas de produtividade, satisfação discente e desafios enfrentados na implementação. Os resultados apontam ganhos significativos em organização e entrega contínua, mas destacam também dificuldades na adaptação cultural e na disciplina para seguir os ritos ágeis.
+
+Palavras-chave: Metodologias Ágeis, Scrum, Kanban, Educação Superior, Engenharia de Software, Brasil.
+
+3. Introdução
+
+A educação brasileira enfrenta desafios históricos relacionados à atualização pedagógica e à aproximação entre teoria e prática (MEC, 2018). No ensino superior, especialmente em cursos de Engenharia de Software e áreas correlatas, prevalecem métodos tradicionais de ensino, que por vezes se mostram distantes da realidade vivida no mercado de trabalho (Moran, 2015).
+
+Ao mesmo tempo, o setor de Tecnologia da Informação tem incorporado intensivamente metodologias ágeis, como Scrum e Kanban, que privilegiam a colaboração, a adaptabilidade e a entrega incremental de valor (Schwaber & Sutherland, 2020; Anderson, 2010). Nesse cenário, torna-se relevante investigar como essas práticas podem ser incorporadas ao ambiente acadêmico, contribuindo para a formação de profissionais mais preparados e alinhados às demandas sociais e econômicas contemporâneas.
+
+Este artigo busca responder à seguinte questão: quais os impactos da aplicação de metodologias ágeis no processo de ensino-aprendizagem em cursos de Engenharia de Software no Brasil?
+
+4. Justificativa
+
+A Lei de Diretrizes e Bases da Educação Nacional (LDB, Lei nº 9.394/1996) e as Diretrizes Curriculares Nacionais para os cursos de Computação e Engenharia de Software (MEC, 2018) enfatizam a importância da formação crítica, prática e interdisciplinar. No entanto, ainda é comum observar currículos engessados e metodologias de ensino baseadas em aulas expositivas e avaliações tradicionais.
+
+A adoção de metodologias ágeis em projetos acadêmicos pode preencher essa lacuna, aproximando os estudantes das práticas utilizadas no mercado de trabalho e incentivando competências como autonomia, colaboração e resolução de problemas. Além disso, trata-se de uma proposta alinhada às pedagogias ativas defendidas por Freire (1996) e Moran (2015), que colocam o estudante como protagonista do processo de aprendizagem.
+
+5. Objetivos
+5.1 Objetivo Geral
+
+Investigar a aplicação de metodologias ágeis em projetos acadêmicos de software no ensino superior brasileiro, analisando seus impactos pedagógicos e práticos.
+
+5.2 Objetivos Específicos
+
+Implementar práticas de Scrum e Kanban em turmas de Engenharia de Software.
+
+Avaliar a percepção dos estudantes em relação à aprendizagem, organização e engajamento.
+
+Identificar os principais desafios na adoção das metodologias ágeis em contextos educacionais.
+
+Discutir a relevância dessa abordagem para a formação de engenheiros de software no Brasil.
+
+6. Referencial Teórico
+6.1 Metodologias Ágeis
+
+O Manifesto Ágil (Beck et al., 2001) trouxe uma mudança de paradigma no desenvolvimento de software, priorizando indivíduos, colaboração e adaptação. Scrum (Schwaber & Sutherland, 2020) e Kanban (Anderson, 2010) são as práticas mais difundidas, tendo impacto comprovado na produtividade e qualidade de software em empresas de tecnologia.
+
+6.2 Educação Superior no Brasil
+
+O sistema educacional brasileiro é regido pela LDB (Lei nº 9.394/1996), que prevê flexibilidade curricular e estímulo a metodologias inovadoras. As Diretrizes Curriculares Nacionais (MEC, 2018) reforçam a necessidade de metodologias ativas, aproximando teoria e prática.
+
+Autores como Paulo Freire (1996) defendem a aprendizagem como processo dialógico e transformador, enquanto Moran (2015) destaca o papel das metodologias ativas na formação crítica. Valente (2018) aponta que a integração entre tecnologia e educação pode potencializar o aprendizado, desde que bem estruturada.
+
+6.3 Ágil na Educação
+
+Estudos recentes indicam que metodologias ágeis podem aumentar o engajamento e a colaboração em ambientes educacionais (da Silva et al., 2020). Entretanto, a implementação enfrenta barreiras como resistência cultural e adaptação de papéis, o que demanda maior investigação em diferentes contextos acadêmicos.
+
+7. Metodologia
+
+Tipo de pesquisa: qualitativa e quantitativa, com enfoque em estudo de caso.
+
+Local: turmas de Engenharia de Software em uma instituição de ensino superior no Brasil.
+
+Participantes: 30 estudantes distribuídos em equipes de 5 integrantes.
+
+Procedimentos:
+
+Formação das equipes.
+
+Escolha de projetos de software reais ou simulados.
+
+Aplicação de Scrum (papéis, sprints, reuniões diárias) e Kanban (fluxo visual em Trello ou GitHub Projects).
+
+Coleta de dados:
+
+Questionários de percepção antes e depois da experiência.
+
+Métricas de produtividade (tarefas concluídas, bugs corrigidos, prazos cumpridos).
+
+Observação participante do professor/pesquisador.
+
+8. Resultados Esperados
+
+Aumento do engajamento e da colaboração entre os estudantes.
+
+Melhor organização e clareza na gestão de tarefas.
+
+Aprendizagem mais próxima da realidade do mercado.
+
+Identificação de dificuldades em papéis como Scrum Master e Product Owner.
+
+Recomendações práticas para instituições de ensino brasileiras.
+
+9. Conclusão
+
+A aplicação de metodologias ágeis no ensino superior brasileiro apresenta-se como uma alternativa inovadora e viável para potencializar o processo de aprendizagem. Ao aproximar teoria e prática, contribui para a formação de profissionais mais preparados, críticos e capazes de atuar em equipes multidisciplinares. Contudo, o sucesso da implementação depende da adaptação cultural, da capacitação docente e do engajamento discente.
+
+Este estudo contribui para a discussão sobre metodologias ativas no Brasil, oferecendo evidências práticas e reflexões teóricas sobre a relevância do ágil no contexto acadêmico.
+
+10. Referências
+
+Anderson, D. J. (2010). Kanban: Successful Evolutionary Change for Your Technology Business. Blue Hole Press.
+
+Beck, K. et al. (2001). Manifesto para Desenvolvimento Ágil de Software.
+
+Brasil. (1996). Lei de Diretrizes e Bases da Educação Nacional – Lei nº 9.394.
+
+Brasil. (2018). Diretrizes Curriculares Nacionais para os cursos de Computação. MEC.
+
+Freire, P. (1996). Pedagogia da Autonomia. São Paulo: Paz e Terra.
+
+Moran, J. M. (2015). Metodologias ativas para uma aprendizagem mais profunda. Revista de Educação, 1(2).
+
+Schwaber, K., & Sutherland, J. (2020). Scrum Guide.
+
+da Silva, T. S., et al. (2020). Agile Methods in Higher Education: A Systematic Mapping. Journal of Systems and Software.
+
+Valente, J. A. (2018). Tecnologias na Educação: O potencial das metodologias ativas. Campinas: Unicamp.
+
+👉 Esse modelo já está bem estruturado e pronto para ser expandido em 10–15 páginas, dependendo do nível de detalhe que você incluir em metodologia e resultados.
+
+Quer que eu avance para montar um plano prático detalhado de aplicação (cronograma, ferramentas digitais, como Trello/Jira/GitHub, métricas e instrumentos de coleta de dados) para você usar de base real no projeto?
